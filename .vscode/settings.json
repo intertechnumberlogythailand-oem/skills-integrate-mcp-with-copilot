@@ -1,0 +1,10 @@
+{
+    "chat.mcp.serverSampling": {
+        "skills-integrate-mcp-with-copilot/.vscode/mcp.json: microsoft/markitdown": {
+            "allowedModels": [
+                "copilotcli/auto",
+                "copilot/auto"
+            ]
+        }
+    }
+}
